@@ -1,0 +1,64 @@
+{
+  "appIsExample": false,
+  "applicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#F5D1D1",
+  "evaluationVersion": 2,
+  "icon": "bus",
+  "pages": [
+    {
+      "id": "Investors",
+      "isDefault": false
+    },
+    {
+      "id": "mock_api",
+      "isDefault": true
+    },
+    {
+      "id": "Curl",
+      "isDefault": false
+    },
+    {
+      "id": "Postgres",
+      "isDefault": false
+    },
+    {
+      "id": "Mongo",
+      "isDefault": false
+    },
+    {
+      "id": "mysql",
+      "isDefault": false
+    },
+    {
+      "id": "firstore",
+      "isDefault": false
+    },
+    {
+      "id": "S3",
+      "isDefault": false
+    },
+    {
+      "id": "snowflake",
+      "isDefault": false
+    },
+    {
+      "id": "gsheet",
+      "isDefault": false
+    },
+    {
+      "id": "All widgets page",
+      "isDefault": false
+    }
+  ],
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  }
+}
